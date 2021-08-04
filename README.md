@@ -52,6 +52,7 @@
 - Chaos' Theory
   - [Butterfly Effect](http://www.scholarpedia.org/article/Butterfly_effect)
   - [Edward Norton Lorenz](http://eaps4.mit.edu/research/Lorenz/publications.htm)'s Publications
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 
 ## News
 
