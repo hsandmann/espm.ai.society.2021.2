@@ -53,9 +53,13 @@
   - [Butterfly Effect](http://www.scholarpedia.org/article/Butterfly_effect)
   - [Edward Norton Lorenz](http://eaps4.mit.edu/research/Lorenz/publications.htm)'s Publications
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- Gigaphotos
+  - [Gigapixel Photography](https://www.jeffrey-martin.com/gigapixel-photography)
+  - [100 billion pixels to see the world entrance](http://en.bigpixel.cn/)
 
 ## News
 
+- 2021.09.17: Reuters - [Australia's two largest states trial facial recognition software to police pandemic rules](https://www.reuters.com/world/asia-pacific/australias-two-largest-states-trial-facial-recognition-software-police-pandemic-2021-09-16/)
 - 2021.04.30: IEEE Spectrum - [Building an AI That Feels](https://spectrum.ieee.org/artificial-intelligence/machine-learning/building-an-ai-that-feels)
 - 2021.04.19: NBC News - [Two Dead In Self-Driving Tesla Crash After Hitting Tree, Burst Into Flames](https://www.youtube.com/watch?v=5-5fLK0Ivaw)
 - 2021.04.06: [Flim.AI](https://beta.flim.ai/) - recommended by Olivia Bellotto de Moraes
